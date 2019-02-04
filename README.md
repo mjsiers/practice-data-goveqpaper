@@ -1,9 +1,18 @@
-practice-data-goveqpaper
-==============================
+Discoverning Governing Equations from Data
+==========================================
+The purpose of this learning project is to reproduce the results from this [**arXiv.org**](https://arxiv.org/abs/1509.03580) paper.  This
+paper describes how to build a regression model that can determine the parameters of the equations used to generate the training data.  This 
+implementation will just focus on reproducing the results of the **Lozenz System**.  A copy of the research paper is located in
+the docs folder.
 
-A short description of the project.
+## Project Goals
+------------
+- [ ] Implement Python Generator to generate sample training data from Lorenz System.
+- [ ] Implement Regression algorithm using Scikit-Learn to verify results.
+- [ ] Implement Regression algorithm using Pytorch to verify results.
 
-Project Organization
+
+## Project Organization
 ------------
 
     ├── LICENSE
