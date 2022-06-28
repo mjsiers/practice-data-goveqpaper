@@ -1,4 +1,4 @@
-arrow==0.13.0
+arrow==0.15.1
 backcall==0.1.0
 binaryornot==0.4.4
 bleach==3.1.0
